@@ -1,6 +1,6 @@
 {
 	"name" : "just-core/metronic",
-	"description" : "support for metronic templates",
+	"description" : "support for metronic templates in the just-core eco system",
 	"license" : "GNU",
 	"keywords" : [
 		"just-core",
