@@ -6,7 +6,7 @@
  * 
  * @author	Jason Medland<jason.medland@gmail.com>
  * @package	SERVICE\METRONIC\
- * @subpackage	
+ * 
  */
  
  
@@ -23,6 +23,8 @@ class METRONIC_WRAPPER {
 
 	
 	/** 
+	* __construct
+	* 
 	* @param param 
 	* @return return  
 	*/
