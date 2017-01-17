@@ -11,7 +11,7 @@
 		"Authentication"
 	],
 	"version" : "0.*",
-	"homepage" : "https://github.com/CHGLongStone/just-core-metronic",
+	"homepage" : "https://chglongstone.github.io/just-core-metronic",
 	"require" : {
 		"php" : ">=5.3.3"
 	},
