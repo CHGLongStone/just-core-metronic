@@ -5,19 +5,19 @@
  *  
  * 
  * @author	Jason Medland<jason.medland@gmail.com>
- * @package	SERVICE\METRONIC\
+ * @package	JCORE\SERVICE\METRONIC
  * 
  */
  
  
 
-namespace SERVICE\METRONIC;
+namespace JCORE\SERVICE\METRONIC;
 
 
 /**
  * Class METRONIC_WRAPPER
  *
- * @package SERVICE\METRONIC
+ * @package JCORE\SERVICE\METRONIC
 */
 class METRONIC_WRAPPER { 
 
